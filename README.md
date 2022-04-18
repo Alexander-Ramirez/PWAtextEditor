@@ -12,8 +12,10 @@
   - [Email](#Email)
 
   ## Installation
-  Make a clone of the Repo, or access it on the Heroku Link
+  Make a clone of the Repo, 
   https://watch.screencastify.com/v/r8WUNMSB9VxkuUf91O8n
+  or access it on the Heroku Link
+  https://guarded-shelf-85932.herokuapp.com/
 
   ## Usage
   The is for users that want a simple text editor that's easy to use and that you can write code on it as well
